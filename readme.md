@@ -8,7 +8,7 @@ The data were collected under National Science Foundation grants OCE-1029268 and
 
 Data are stored in human-readable format at https://osf.io/uaem3/.
 
-A repository containing data in git-annex / datalad format is located at https://osf.io/j47pk/ and connected to this repository. Clone the bare dataset repository via:
+A repository containing data in git-annex / datalad format is located at https://osf.io/j47pk/ and connected to this repository. To access the data this way, clone the bare dataset repository via:
 ```
 datalad clone https://github.com/gunnarvoet/sp-data-archive-towyo
 ```
