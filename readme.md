@@ -1,3 +1,3 @@
 # Samoan Passage Towyo Data Archive
 
-Towyo (CTD/LADCP) data from the 2012 and 2014 cruises.
+CTD/LADCP towyo data from the 2012 (RR1209) and 2014 (TN305) Samoan Passage cruises.
