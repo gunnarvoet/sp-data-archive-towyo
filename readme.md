@@ -12,9 +12,10 @@ A repository containing data in git-annex / datalad format is located at https:/
 ```
 datalad clone https://github.com/gunnarvoet/sp-data-archive-towyo
 ```
-In a second step obtain the data stored in the OSF repository via:
+In a second step obtain the data from the OSF repository via:
+```sh
+datalad get -r -d sp-data-archive-towyo/nc
 ```
-datalad get -r sp-data-archive-towyo/nc
-```
+More information on *git-annex* and *datalad* can be found in the [DataLad Handbook](https://handbook.datalad.org/en/latest/index.html).
 
 The parent Samoan Passage data repository containing further datasets is located at https://github.com/gunnarvoet/sp-data-archive/.
