@@ -1,5 +1,7 @@
 # Samoan Passage Towyo Data Archive
 
+[![DOI](https://sandbox.zenodo.org/badge/550504299.svg)](https://sandbox.zenodo.org/badge/latestdoi/550504299)
+
 CTD/LADCP towyo data from the 2012 (RR1209) and 2014 (TN305) Samoan Passage cruises.
 
 The data were collected under National Science Foundation grants OCE-1029268 and OCE-1029483.
