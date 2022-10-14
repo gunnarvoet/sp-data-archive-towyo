@@ -3,9 +3,6 @@
 
 cff-version: 1.2.0
 title: Samoan Passage Towyo Data Archive
-message: >-
-  If you use this dataset, consider citing it using the
-  metadata from CITATION.cff.
 type: dataset
 authors:
   - given-names: Gunnar
