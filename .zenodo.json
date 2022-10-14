@@ -60,9 +60,5 @@
         "name": "Carter, Glenn S."
       }
     ], 
-    "access_right": "open", 
-    "resource_type": {
-      "type": "dataset", 
-      "title": "Dataset"
-    }
+    "access_right": "open"
 }
