@@ -2,3 +2,4 @@
 **/.git* annex.largefiles=nothing
 *.md annex.largefiles=nothing
 *.cff annex.largefiles=nothing
+*.json annex.largefiles=nothing
