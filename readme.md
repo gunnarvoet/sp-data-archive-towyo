@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/550504299.svg)](https://zenodo.org/badge/latestdoi/550504299)
+
 # Samoan Passage Towyo Data Archive
 
 CTD/LADCP towyo data from the 2012 (RR1209) and 2014 (TN305) Samoan Passage cruises.
