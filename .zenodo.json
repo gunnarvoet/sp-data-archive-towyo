@@ -1,8 +1,6 @@
 {
     "description": "<p>Samoan Passage Towyo Data Archive. Clone dataset at <a href=\"https://github.com/gunnarvoet/sp-data-archive-towyo\">https://github.com/gunnarvoet/sp-data-archive-towyo</a> or download individual files at <a href=\"https://osf.io/uaem3/\">https://osf.io/uaem3/</a>.</p>", 
-    "license": {
-      "id": "CC-BY-1.0"
-    }, 
+    "license": "cc-zero",
     "title": "Samoan Passage Towyo Data Archive", 
     "notes": "If you use this dataset, consider citing it using the metadata from CITATION.cff.", 
     "grants": [
