@@ -4,40 +4,8 @@
     "title": "Samoan Passage Towyo Data Archive", 
     "notes": "If you use this dataset, consider citing it using the metadata from CITATION.cff.", 
     "grants": [
-      {
-        "code": "1029483", 
-        "links": {
-          "self": "https://zenodo.org/api/grants/10.13039/100000001::1029483"
-        }, 
-        "title": "Collaborative Research: Transport, Internal Waves and Mixing in the Samoan Passage", 
-        "acronym": "", 
-        "program": "Directorate for Geosciences", 
-        "funder": {
-          "doi": "10.13039/100000001", 
-          "acronyms": [], 
-          "name": "National Science Foundation", 
-          "links": {
-            "self": "https://zenodo.org/api/funders/10.13039/100000001"
-          }
-        }
-      }, 
-      {
-        "code": "1029268", 
-        "links": {
-          "self": "https://zenodo.org/api/grants/10.13039/100000001::1029268"
-        }, 
-        "title": "Collaborative Research: Transport, Internal Waves and Mixing in the Samoan Passage", 
-        "acronym": "", 
-        "program": "Directorate for Geosciences", 
-        "funder": {
-          "doi": "10.13039/100000001", 
-          "acronyms": [], 
-          "name": "National Science Foundation", 
-          "links": {
-            "self": "https://zenodo.org/api/funders/10.13039/100000001"
-          }
-        }
-      }
+        {"id": "10.13039/100000001::1029268"},
+        {"id": "10.13039/100000001::1029483"}
     ], 
     "creators": [
       {
@@ -60,5 +28,5 @@
         "name": "Carter, Glenn S."
       }
     ], 
-    "access_right": "open"
+    "access_right": "open", 
 }
