@@ -3,7 +3,6 @@
     "license": "cc-zero",
     "upload_type": "dataset",
     "title": "Samoan Passage Towyo Data Archive", 
-    "notes": "If you use this dataset, consider citing it using the metadata from CITATION.cff.", 
     "grants": [
         {"id": "10.13039/100000001::1029268"},
         {"id": "10.13039/100000001::1029483"}
