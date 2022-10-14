@@ -4,8 +4,8 @@
 cff-version: 1.2.0
 title: Samoan Passage Towyo Data Archive
 message: >-
-  If you use this dataset, please cite it using the
-  metadata from this file.
+  If you use this dataset, consider citing it using the
+  metadata from CITATION.cff.
 type: dataset
 authors:
   - given-names: Gunnar
@@ -34,5 +34,5 @@ authors:
     email: gscarter@hawaii.edu
     affiliation: University of Hawaii at Mānoa
 date-released: 2022-10-13
-doi: 10.5072/zenodo.1114313
+doi: 10.5281/zenodo.7197010
 url: "https://github.com/gunnarvoet/sp-data-archive-towyo"
